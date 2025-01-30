@@ -87,7 +87,7 @@ We tackle **15 exciting business problems** to uncover hidden patterns and trend
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
+   git clone https://github.com/musfiqurrabeg/Netflix-Data-Analysis-with-SQL.git
    ```
 
 2. **Set Up the Database**:  
